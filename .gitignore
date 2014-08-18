@@ -1,2 +1,4 @@
-
 .DS_Store
+/notebooks/mo_in.tmp
+/notebooks/mo_out.tmp
+/notebooks/.ipynb_checkpoints/
